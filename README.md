@@ -8,14 +8,16 @@ Data analysis on Animal Crossing inhabitants on their species, personality types
          src=Resources/species_count.png
          >
     </p>
-    
+
+-----
 * Below is the personality count of all of the animal crossing new horizon's villagers:
 <p align="center">
     <img
          src=Resources/personality_count.png
          >
     </p>
-    
+
+-----
 * Below is the favorite song count of all of the animal crossing new horizon's villagers:
 <p align="center">
     <img
