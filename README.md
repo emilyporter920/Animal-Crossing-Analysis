@@ -31,3 +31,10 @@ Data analysis on Animal Crossing inhabitants on their species, personality types
      - The most common species of villager is a cat and the least common is an octopus.
      - The most common personality of villager is lazy and the least common is big sister.
      - The most common favorite song is "Forest Life" and the least favorite songs are "K.K. Dixie", "K.K. Jazz", "K.K. Lullaby", "K.K. Tango", "K.K. Mambo", "K.K. Aria", "The K.K. Funk", "K.K. Paradise", and "K.K. Salsa".
+
+## Questions
+
+* You can contact me via email or GitHub!
+
+    * Email: emilyporter920@gmail.com
+    * GitHub Profile: Emily Porter || github.com/emilyporter920 
